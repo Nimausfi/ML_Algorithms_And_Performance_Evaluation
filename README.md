@@ -1,4 +1,5 @@
-# Supervised_Machine_Learning_Algorithms
+# Supervised Machine Learning Algorithms
+# Performance Evaluation
 
 In supervised learning, we can train the machine using data which is already labeled. That means our data is already tagged with the correct answer.
 
